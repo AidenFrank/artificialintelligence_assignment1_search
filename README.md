@@ -1,15 +1,15 @@
-Created by Aiden Frank
+# Created by Aiden Frank
 
 Python 3.11.9
 
 Instructions to run:
 
-Download the main.py file and navigate to it in Visual Studio Code or a terminal/Windows command prompt.
+Make sure that you have python installed on your computer. It can be downloaded from [the Python website](https://www.python.org/)
+
+Download the main.py file and navigate to it in [Visual Studio Code](https://code.visualstudio.com/) or a terminal/Windows command prompt.
 
 Opening the file in Visual Studio Code is the preferred method, as it seems that the time comparisons don't work in certain cases
 in the terminal, executes too quickly, and records the time as zero. All of the cases should work 100% correctly when run in Visual Studio Code.
-
-Make sure that you have python installed on your computer. I can be downloaded from https://www.python.org/
 
 Instructions for Visual Studio Code:
 Once the file has been loaded, click the start arrow in the top right of the page.
